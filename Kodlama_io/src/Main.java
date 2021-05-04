@@ -16,7 +16,7 @@ public class Main {
 		Instructor instructor = new Instructor(
 				1,"Engin", "DEMÝROÐ","engin@engin","1111","ANGULAR-REACT");
 		
-		
+	
 		StudentManager studentManager = new StudentManager();
 		
 		studentManager.launchCourse("C#");
