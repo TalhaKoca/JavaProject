@@ -16,7 +16,7 @@
 	<classpathentry kind="lib" path="C:/Users/HP/.p2/pool/plugins/javax.xml.soap_1.2.0.v201005080501/lib/saaj.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HP/.p2/pool/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HP/.p2/pool/plugins/org.apache.commons.logging_1.2.0.v20180409-1502.jar"/>
-	<classpathentry kind="lib" path="C:/Users/HP/Desktop/JavaProject/interfaceAbstractDemo/src/mail-1.4.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/HP/Desktop/JavaProject/interfaceAbstractDemo/src/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/JavaProject/interfaceAbstractDemo/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/JavaProject/interfaceAbstractDemo/mail-1.4.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
