@@ -1,5 +1,6 @@
 package ECommerceProject.business.concretes;
 
+import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -27,7 +28,7 @@ public class AuthManager implements AuthService {
 			return;
 		}
 
-		boolean userExists = checkIfEmailExists(user.getEmail());
+		boolean userExists = checkIfEmailExists(user.getEmail().toLowerCase(Locale.ROOT));
 		if (!userExists) {
 			System.out.println("Girilen mail adresi sistemde kayýtlý. Farklý bir adresle tekrar deneyiniz.");
 			return;
